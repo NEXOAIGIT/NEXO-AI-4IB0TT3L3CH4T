@@ -21,8 +21,8 @@ NEXO AI es un bot de Telegram con capacidades de inteligencia artificial para re
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/nexo-ai.git
-cd nexo-ai
+git clone https://github.com/NEXOAIGIT/NEXO-AI-4IB0TT3L3CH4T.git
+cd NEXO-AI-4IB0TT3L3CH4T
 ```
 
 2. Crea un entorno virtual:
@@ -78,4 +78,5 @@ Este proyecto está bajo la Licencia MIT.
 ## Soporte
 
 Para soporte, únete a nuestro grupo de Facebook: [NEXO AI Community](https://www.facebook.com/share/g/18zST2GjHn/)
+
 ```
